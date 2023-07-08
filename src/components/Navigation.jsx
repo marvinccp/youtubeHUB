@@ -1,6 +1,6 @@
 import Link from "next/link";
 import React from "react";
-import styles from "../styles/navigation.module.css";
+import styles from "../styles/Navigation.module.css";
 import Image from "next/image";
 
 export const Navigation = () => {
