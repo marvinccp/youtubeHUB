@@ -11,8 +11,8 @@ const VideoYoutube = ({ url, width, height, videoId }) => {
     >
       <Image
         src={url}
-        width={width}
-        height={height}
+        width={300}
+        height={160}
         alt="youtube_miniatures"
         priority
       />
